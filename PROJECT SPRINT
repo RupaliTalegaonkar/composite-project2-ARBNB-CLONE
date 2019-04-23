@@ -1,0 +1,59 @@
+Coding Start Date:	March 31		
+Coding End Date	April 21		
+Sprint Length:	4		
+			
+What is the minimum you need to do for for FIRST VERSION?????			
+Features	Description	Priority	Version
+Airbnb UI 	Wireframe and Layout	High	1
+	Branding and Prototype	High	1
+			
+Landingn Page with search / filter window	A very First Page to dispaly when user  visit the web site	High	1
+	& a search bar to search / filter listiings		
+	Display a recomanded trips for you	Low	3
+	Display a top-rated experience	Low	3
+	Popular destination trip with family	Low	3
+	Exploer Airbnb	medium	2
+	Exploring parts of world like Europ , Asia, south America.etc.	low	3
+	Seasons Trips	medium	2
+			
+Search Listing / Filter Listing	User type in a city name 	High	1
+#	Home / property type	High	1
+2	Price	high	1
+3	Neighbourhoond	medium	2
+4	Room&bed	medium	2
+5	Aminities	medium	2
+6	Facilities	low	3
+7	Work Trip	low	3
+8	Family Trip	low	3
+9	Guest rate & review.	low	3
+#	Experience	High	1
+1	Nature	medium	2
+2	Food & Drink	low	3
+3	Night life	medium	2
+4	History Tour	medium	2
+5	Sports	low	3
+#	Restaurants	low	3
+	This page display avaible accomodations in the city on the 		
+	perticular dates, display with the  above criteria.		
+			
+Display Listing	Display all the avialable accomodation.with primary display like	Medium	2
+1	show homes	High	1
+2	with wireless internet	HIGH	1
+3	show experience	MEDIUM	2
+4	show top rated experience	High	1
+5	Top rated hosts	Medium	2
+6	Exploring most visited places	Low	3
+7	Exploring parts of world like Europ , Asia, south America.	Low	3
+8	top rated beaches and a summer vacations etc.	Low	3
+			
+Create a list of Favouirties	User find the accomodation as they like	Medium	2
+	They make  shortlisted/bookmark the accomodation for finalise 		
+	accordingly their budget, neighbourhood and  the date of 		
+	Journey./visit avalibility 		
+			
+User Account Management	Must have account for booking	High	1
+	Login with facebook 	Low	3
+	Login with google	Low	3
+	Login with email	Medium	3
+	Signup	medium	2
+	Forgot Password	Low	3

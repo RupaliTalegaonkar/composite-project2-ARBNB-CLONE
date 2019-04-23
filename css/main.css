@@ -1,0 +1,83 @@
+        body {
+            font-family: 'Nunito', sans-serif;
+        }
+        /* Menu */
+        
+        .im {
+            width: 2em;
+            height: 2em;
+        }
+        
+        .img {
+            width: auto;
+            height: 500px;
+        }
+        /* HERO SECTION CSS --> JOIN TEAM SNAP */
+        
+        .landing {
+            width: auto;
+            height: auto;
+        }
+        /* ------------------------------------ */
+        /* ------------------------------------ */
+        /* WHO WE ARE CSS */
+        
+        #whoWeAreContainer {
+            margin-top: 4em;
+            margin-bottom: 4em;
+        }
+        
+        #whoWeAreHeader {
+            font-size: 2em;
+            /* 16* 2 = 32px*/
+            letter-spacing: 1px;
+            font-weight: 300;
+        }
+        
+        #whoWeAreDescription {
+            margin-top: 24px;
+            font-size: 19px;
+        }
+        /* ------------------------------------ */
+        /* OUR BRANDS CSS */
+        
+        .greySection {
+            background-color: #ebebeb;
+            /*background-color:yellow;*/
+        }
+        
+        img.ourBrandImages {
+            width: 4em;
+            height: 4em;
+        }
+        
+        h2.ourBrandSubHeader {
+            font-size: 1em;
+            /* 16px = 1em */
+            font-weight: 800;
+            margin-top: 5px;
+            margin-bottom: 5px;
+        }
+        /* ------------------------------------ */
+        /* FOOTER HERO SECTION CSS */
+        
+        footer p {
+            text-align: center;
+        }
+        
+        columns footer {
+            padding: 2px 2 px 2 px 2px;
+            border: 1px solid black;
+        }
+        
+        #footerSection {
+            background-color: #ebebeb;
+        }
+        /*-------------------------------------------------------*/
+        /*-Grid tab images display*/
+        
+        .images {
+            width: fit-content;
+            height: 20em;
+            border: 5px solid black;
+        }

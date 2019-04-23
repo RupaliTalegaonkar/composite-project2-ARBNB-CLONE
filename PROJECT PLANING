@@ -1,0 +1,40 @@
+  Student Name	Rupali Talegaonkar		
+Student ID	n01273253		
+Project Name	Airbnb		
+Description	I am Building a clone Airbnb for composite 2		
+			
+Features Name	Description	Priority	
+Airbnb UI 	Wireframe and Layout	High	-
+	branding and Prototype	High	
+			
+Landingn Page with search window	A very First Page to dispaly when user  visit the web site	High	
+	& a search bar to search / filter listiings		
+	display a recomanded trips	Low	
+	display a top-rated experience	Medium	
+	popular destination trip with family	Low	
+			
+Search Listing / Filter Listing	User type in a city name 	Medium	
+	The page display avaible accomodations in the city on the 		
+	perticular dates, display with the categories.		
+			
+Display Listing	Display all the avialable accomodation.with primary display like	Medium	
+1	show homes	High	
+2	with wireless internet	HIGH	
+3	show experience	MEDIUM	
+4	show top rated experience	High	
+5	Top rated hosts	Medium	
+6	Exploring most visited places	Low	
+7	Exploring parts of world like Europ , Asia, south America.	Low	
+8	top rated beaches and a summer vacations etc.	Low	
+			
+Create a list of Favouirties	User find the room they like	Medium	
+	They make a shortlisted the accomodation for finalise with in 		
+	accomodation with in the budget and availble on the date of 		
+	Journey.		
+			
+User Account Management	Login with facebook 	Low	
+	Login with google	Low	
+	Login with email	medium	
+	Signup	Low	
+	Forgot Password	Low	
+			
